@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.product-table{
+    border-collapse: collapse;
+    margin: auto;
+    text-indent: 30px;
+    
+
+    
+}
+.product-table  td{
+    border: 2px solid black;
+
+    
+}
+.product-table,th,td{
+    margin: auto;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    font-weight: 700;
+}
+.product-table th{
+    border: 2px solid black;
+    background-color: antiquewhite;
+}
+/* ******************* */
+/* shoppingtable */
+/* ******************8 */
+.shopping-table td{
+    border: 2px solid black;
+
+    
+}
+.shopping-table,th,td{
+    margin: auto;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    font-weight: 700;
+}
+.shopping-table th{
+    border: 2px solid black;
+    background-color: antiquewhite;
+}
+/* ********************** */
+/* discount table */
+/* *********************** */
+.discount-table td{
+    border: 2px solid black;
+
+    
+}
+.discount-table,th,td{
+    margin: auto;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    font-weight: 700;
+}
+.discount-table th{
+    border: 2px solid black;
+    background-color: antiquewhite;
+}
+
+
+/* heading tag */
+.discount-head{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.product-head{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.shopping-heading{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+}
